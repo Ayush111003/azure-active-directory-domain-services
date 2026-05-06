@@ -325,8 +325,8 @@ The custom IIS webpage loads in the browser on client-vm using the full domain n
 
 | # | Project | Repo |
 |---|---|---|
-| 1 | Two-Tier Terraform Web App | `aws-terraform-two-tier-webapp` |
-| 2 | EC2 Web Server Deployment | `aws-ec2-webserver-deployment` |
-| 3 | News API Lambda + S3 | `aws-news-api-lambda` |
-| 4 | AWS Event-Driven Bills Pipeline | `aws-event-driven-bills-pipeline` |
+| 1 | Two-Tier Terraform Web App | [aws-terraform-two-tier-webapp](https://github.com/Ayush111003/aws-terraform-two-tier-webapp) |
+| 2 | EC2 Web Server Deployment | [aws-ec2-webserver-deployment](https://github.com/Ayush111003/aws-ec2-webserver-deployment) |
+| 3 | News API Lambda + S3 | [aws-news-api-lambda](https://github.com/Ayush111003/aws-news-api-lambda) |
+| 4 | AWS Event-Driven Bills Pipeline | [aws-event-driven-bills-pipeline](https://github.com/Ayush111003/aws-event-driven-bills-pipeline) |
 | 5 | **Azure Active Directory Domain Services** | `azure-active-directory-domain-services` ← you are here |
